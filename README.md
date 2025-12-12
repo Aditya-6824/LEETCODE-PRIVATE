@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0038-count-and-say) |
 ## Two Pointers
 |  |
 | ------- |
