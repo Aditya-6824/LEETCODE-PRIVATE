@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 ## Combinatorics
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0038-count-and-say) |
 ## Two Pointers
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
 | ------- |
