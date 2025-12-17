@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0022-generate-parentheses) |
@@ -101,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
