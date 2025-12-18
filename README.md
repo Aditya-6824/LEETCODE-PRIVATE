@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
