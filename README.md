@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0017-letter-combinations-of-a-phone-number) |
