@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
+| [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Two Pointers
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0046-permutations) |
+| [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 ## Linked List
 |  |
 | ------- |
