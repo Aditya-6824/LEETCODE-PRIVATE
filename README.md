@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Divide and Conquer
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
 ## Database
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
