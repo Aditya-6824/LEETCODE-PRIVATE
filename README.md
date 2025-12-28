@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Divide and Conquer
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 ## Combinatorics
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0055-jump-game) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Backtracking
 |  |
