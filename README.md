@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
@@ -153,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
