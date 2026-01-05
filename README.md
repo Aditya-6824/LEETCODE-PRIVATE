@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0059-spiral-matrix-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Divide and Conquer
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0059-spiral-matrix-ii) |
 ## Database
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0059-spiral-matrix-ii) |
 ## Design
 |  |
 | ------- |
