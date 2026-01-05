@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0146-lru-cache) |
