@@ -39,6 +39,7 @@ A collection of LeetCode questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions
 | ------- |
 | [0078-subsets](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0089-gray-code) |
+| [0191-number-of-1-bits](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0191-number-of-1-bits) |
 | [2438-range-product-queries-of-powers](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/2438-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
