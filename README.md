@@ -45,6 +45,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
@@ -54,11 +55,13 @@ A collection of LeetCode questions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0145-binary-tree-postorder-traversal) |
