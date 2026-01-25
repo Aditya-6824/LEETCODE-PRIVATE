@@ -44,6 +44,7 @@ A collection of LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -54,12 +55,14 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0097-interleaving-string) |
 ## Combinatorics
@@ -193,6 +197,7 @@ A collection of LeetCode questions
 | [0089-gray-code](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0095-unique-binary-search-trees-ii) |
 ## Linked List
 |  |
 | ------- |
