@@ -209,6 +209,7 @@ A collection of LeetCode questions
 | [0024-swap-nodes-in-pairs](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0146-lru-cache) |
