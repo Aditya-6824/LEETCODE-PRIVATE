@@ -32,6 +32,7 @@ A collection of LeetCode questions
 | [0078-subsets](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2438-range-product-queries-of-powers](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/2438-range-product-queries-of-powers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0191-number-of-1-bits) |
 ## Tree
@@ -49,6 +51,7 @@ A collection of LeetCode questions
 | [0098-validate-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions
 | [0098-validate-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
@@ -124,6 +128,7 @@ A collection of LeetCode questions
 | [0037-sudoku-solver](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0146-lru-cache) |
