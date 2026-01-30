@@ -59,6 +59,7 @@ A collection of LeetCode questions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions
 | [0099-recover-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Math
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions
 | [0090-subsets-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0113-path-sum-ii) |
 ## Linked List
 |  |
 | ------- |
