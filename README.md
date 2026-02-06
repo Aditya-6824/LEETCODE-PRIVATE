@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0130-surrounded-regions) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2438-range-product-queries-of-powers](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/2438-range-product-queries-of-powers) |
 ## Divide and Conquer
@@ -108,6 +109,7 @@ A collection of LeetCode questions
 | [0113-path-sum-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Math
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0130-surrounded-regions) |
 ## Matrix
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions
 | [0064-minimum-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0130-surrounded-regions) |
 ## Design
 |  |
 | ------- |
@@ -326,4 +330,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0148-sort-list) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
